@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Estaciones de metro </title>
+<title>Estaciones de metro</title>
 <meta charset="utf-8">
 
 <link rel="stylesheet" href="style.css">
