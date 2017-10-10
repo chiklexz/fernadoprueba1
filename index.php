@@ -11,7 +11,7 @@
 <form name="formularioDatos" method="post" action="metrobusphphcase.php">
 
 <br>
-<Center><h2>CALCULAR EL PRECIO DE LAS ESTACIONES</h2></Center>
+<Center><h2>HOLA PRINCESA</h2></Center>
 <br/>
 
 <center><H1>PRECIO POR ESTACION: $3.50</h1></center>
